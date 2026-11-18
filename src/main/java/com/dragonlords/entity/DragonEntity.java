@@ -305,7 +305,7 @@ public class DragonEntity extends TamableAnimal {
     @Override public boolean removeWhenFarAway(double d) { return false; }
     @Override public boolean isFood(ItemStack s) { return false; }
     @Nullable @Override public AgeableMob getBreedOffspring(ServerLevel l, AgeableMob o) { return null; }
-    @Override public boolean canBreatheUnderwater() { return dragonType == DragonType.OCEAN; }
+
     @Override public AABB getBoundingBoxForCulling() { return getBoundingBox().inflate(dragonType.scale * 2.6); }
 
     @Override
