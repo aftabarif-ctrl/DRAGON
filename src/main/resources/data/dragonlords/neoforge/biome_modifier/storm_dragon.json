@@ -1,0 +1,10 @@
+{
+  "type": "neoforge:add_spawns",
+  "biomes": "#dragonlords:storm_dragon_habitat",
+  "spawners": {
+    "type": "dragonlords:storm_dragon",
+    "weight": 4,
+    "minCount": 1,
+    "maxCount": 1
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "type": "neoforge:add_spawns",
+  "biomes": "#dragonlords:ocean_dragon_habitat",
+  "spawners": {
+    "type": "dragonlords:ocean_dragon",
+    "weight": 4,
+    "minCount": 1,
+    "maxCount": 1
+  }
+}

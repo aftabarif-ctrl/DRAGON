@@ -1,0 +1,15 @@
+{
+  "key.categories.dragonlords": "Dragon Lords",
+  "key.dragonlords.breath": "Dragon Breath (hold)",
+  "key.dragonlords.charge": "Dragon Charge",
+  "entity.dragonlords.fire_dragon": "Fire Dragon",
+  "item.dragonlords.fire_dragon_spawn_egg": "Fire Dragon Spawn Egg",
+  "entity.dragonlords.ice_dragon": "Ice Dragon",
+  "item.dragonlords.ice_dragon_spawn_egg": "Ice Dragon Spawn Egg",
+  "entity.dragonlords.forest_dragon": "Forest Dragon",
+  "item.dragonlords.forest_dragon_spawn_egg": "Forest Dragon Spawn Egg",
+  "entity.dragonlords.ocean_dragon": "Ocean Dragon",
+  "item.dragonlords.ocean_dragon_spawn_egg": "Ocean Dragon Spawn Egg",
+  "entity.dragonlords.storm_dragon": "Storm Dragon",
+  "item.dragonlords.storm_dragon_spawn_egg": "Storm Dragon Spawn Egg"
+}
